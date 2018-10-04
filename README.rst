@@ -1,4 +1,5 @@
-# pathme_resources
+PathMe Resources
+================
 Resources derived from PathMe
 
 This package is a supplement to PathMe. Contained in the notebooks folder, for each database (i.e. KEGG PATHWAYS, Reactome and WikiPathways), the following can be located:
