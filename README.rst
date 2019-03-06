@@ -1,3 +1,3 @@
 PathMe Resources
 ================
-This package contains supplementary analysis conducted with PathMe. This supplementary analysis are located in the notebook folder.
+This package contains supplementary analyses conducted with PathMe. These analysss are located in the notebook directory.
